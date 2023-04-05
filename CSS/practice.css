@@ -1,0 +1,94 @@
+body{
+background-image:
+background-repeat:
+background-size:
+}
+
+
+
+.videobg{
+  position: fixed;
+  z-index: -1;
+  min-width: 100%;
+}
+
+/*
+this is for site page background image
+body{
+background-image: url(../images/mountain.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+*/
+
+
+
+
+div{
+  height: 100px;
+  width: 200px;
+  border: solid 0px;
+  border-color: red;
+  border-radius: 0px;
+  background-color: skyblue;
+}
+p{
+  margin: 0px;
+}
+
+.red-container{
+  background-color: #eaf333;
+  height: 500px;
+  width: 700px;
+  position: absolute;
+}
+
+.red{
+  height: 200px;
+  width: 200px;
+  border: solid 0px;
+  padding: 0px;
+  margin-right:0px;
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  background-color: red;
+}
+
+.blue{
+  height: 200px;
+  width: 200px;
+  border: solid 0px;
+  margin-left: 0px;
+  position: abso;
+  left: 0px;
+  bottom: 0px;
+  background-color: blue;
+  }
+
+.yellow{
+  height: 200px;
+  width: 200px;
+  border: solid 0px;
+  margin-left:0px;
+  position:ed;
+  left: 210px;
+  bottom: 0px;
+  background-color: yellow;
+}
+
+h1{
+  background-color: red;
+  width: 0px;
+  display: inline;
+  margin: 0px;
+}
+
+.heading2{
+  visibility: hidden;
+}
+
+span{
+  background-color: blue;
+  width: 100px;
+}
